@@ -3,3 +3,4 @@ New line is added in file1
 Line three 
 Line four
 Line five
+Line six in main branch
