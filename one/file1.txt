@@ -5,3 +5,4 @@ Line four
 Line five
 Line six in main branch
 Line six in branch Two
+Line seven in Branch Three
