@@ -1,1 +1,2 @@
 Hello this is first line added
+New line is added in file1
