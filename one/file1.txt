@@ -4,3 +4,4 @@ Line three
 Line four
 Line five
 Line six in branch Two
+Line seven in branch Two
